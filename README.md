@@ -30,8 +30,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone < https://lnkd.in/gcbBgYvQ >
-   cd "Project 11-03"
+   git clone https://github.com/FirdaushAnwer/Green-Meter
    ```
 
 2. **Install dependencies**:
